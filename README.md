@@ -26,3 +26,13 @@
 * Problem Solving
 * Clean Code
 * Continuous Learning
+
+
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: www.linkedin.com/in/shiwangee-singh
+* 💻 GitHub: https://github.com/Shiwangee2005
+* 📧 Email: shiwangeesingh64@gmail.com
